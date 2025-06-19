@@ -1,0 +1,14 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>site doido</title>
+    </head>
+    <body>
+        <h1>larililarilaa</h1>
+        <button onclick="alert('ai minha xereca')">abrindo um butao alertas</button>"
+        
+    </body>
+    </html>
