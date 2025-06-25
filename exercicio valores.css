@@ -1,0 +1,21 @@
+h1{
+    color: rgb(3, 33, 133);
+    font-size: 24px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(0, 117, 53);
+    font-size: 20px;
+    text-align: left;
+}
+
+h2.novo_h2{
+    color: rgb(54, 106, 165);
+    font-size: 16px;
+    text-align: right;
+
+
+
+
+}
